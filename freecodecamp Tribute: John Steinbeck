@@ -1,0 +1,55 @@
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center">John Steinbeck</h1>
+           <h2 class="text-center"><em>"And now that you don't have to be perfect, you can be good."</em></h2>
+    <div class="thumbnail"><img class="img-border" src="https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2015/10/johnsteinbeck.jpg?zoom=2&w=680&ssl=1"></img>
+      <div class="caption text-center">Steinbeck lounging on his porch.</div>
+      </div>
+      <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <h3>Timeline of Steinbeck's life:</h3>
+        <ul>
+          <li><strong>1902</strong> - February 27, 1902 Steinbeck is born in Salinas, California.</li>
+          <li><strong>1919</strong> - Graduation from Salinas High School.</li>
+          <li><strong>1925</strong> - Leaves Standford for the last time and moves to New York in November to become a writer.</li>
+          <li><strong>1926</strong> - Returns to California and settles in Lake Tahoe. He works as a handyman at a local resort</li>
+          <li><strong>1929</strong> - <em>Cup of Gold</em>, his first novel is published.</li>
+          <li><strong>1930</strong> - January 14 he marries his first wife, Carol Henning.  They move into a small cottage in Pacific Grove, California owned by Steinbeck's father. Steinbeck will complete much of his life's work in this cottage.</li>
+          <li><strong>1935</strong> - Dust Bowl: On 14 April, also known as Black Sunday, a dust storm of monumental proportions strikes the Midwest. The next day reporters coin the phrase "the Dust Bowl."</li>
+          <li><strong>1937</strong> - <em>Of Mice and Men</em> is published in New York on November 23.</li>
+          <li><strong>1939</strong> - <em>The Grapes of Wrath</em>, Steinbeck's critical success and most well-known work, is published.</li>
+          <li><strong>1940</strong> - Steinbeck is awarded the Pulitzer prize and the National Book Award for <em>The Grapes of Wrath.</em></li>
+          <li><strong>1941</strong> - Steinbeck separates from his first wife, Carol, and moves to New York with a woman named Gwyndolyn Conger. He also publishes <em>Sea of Cortez</em>, a travelogue co-written with Ed Ricketts.</li>
+      <li><strong>1942</strong> - He publishes <em>The Moon is Down</em> in March. The play version of the book opens in New York two months later.</li>
+      <li><strong>1943</strong> - His divorce from Carol Henning final, and Steinbeck marries Gwyndolyn Conger on March 29th. He later travels to Europe and North Africa to cover World War II as a correspondent for the New York Herald Tribune newspaper.</li>
+          <li><strong>1944</strong> - Steinbeck is nominated for an Academy Award on March 15th for Best Story for his work on the Alfred Hitchcock picture <em>Lifeboat</em>. The Oscar ultimately goes to another writer, however. 
+            On August 2nd, his first son, Thomas Steinbeck, is born.</li>
+          <li><strong>1945</strong> - On January 2nd, the novel <em>Cannery Row</em> is published. </li>
+          <li><strong>1946</strong> - Steinbeck's second child, John Steinbeck IV, is born. </li>
+          <li><strong>1947</strong> - Steinbeck travels through Soviet Russia as a reporter for the New York Herald Tribune, accompanied by the photojournalist Robert Capa. The trip helps fuel suspicions that Steinbeck is a socialist. He also publishes <em>The Wayward Bus</em>, a novel set in post-World War I California, , and <em>The Pearl</em>, a morality tale based on a legend Steinbeck heard in La Paz, Mexico. </li></strong>                <li><strong>1948</strong> - In a year of personal tragedy and professional accomplishment, Steinbeck's close friend Ed Ricketts is killed in a car accident. A few months later, Gwyndolyn Conger divorces Steinbeck. He publishes a non-fiction account of his tour of Russia entitled A Russian Journal and is elected to the American Academy of Arts and Letters. </li>
+        <li><strong>1950</strong> - On December 28th, Steinbeck marries his third and last wife, Elaine Anderson Scott.</li>
+        <li><strong>1952</strong> - East of Eden is published. Steinbeck considers it his finest work, saying that "Always before I held something back for later. Nothing is held back here. . . . I think everything else I have written has been, in a sense, practice for this."</li>
+        <li><strong>1960</strong> - From September to November, Steinbeck tours the United States in a camping van named Rocinante, accompanied only by his pet poodle, Charley. The road trip becomes the basis for his 1962 memoir, <em>Travels With Charley</em>.</li>
+        <li><strong>1961</strong> - In April, <em>The Winter of Our Discontent</em>, Steinbeck's final novel, is published.</li>
+        <li><strong>1962</strong> - On October 25th, John Steinbeck is awarded the Nobel Prize for Literature.</li>
+        <li><strong>1963</strong> - In October, Steinbeck embarks on a two-month tour of Western Europe with playwright Edward Albee as part of a cultural tour with the United States Information Agency.</li>
+        <li><strong>1964</strong> - On September 14th, President Lyndon B. Johnson, a personal friend of John Steinbeck, presents the writer with the Presidential Medal of Freedom. Steinbeck had helped LBJ draft his acceptance speech for the Democratic National Convention a month earlier.</li>
+        <li><strong>1966</strong> - On October 12th, <em>America and Americans</em> is published. The book is a collection of photographs of American life, accompanied by essays written by Steinbeck. It is the last book published in his lifetime.</li>
+        <li><strong>1968</strong> - On December 20th, John Steinbeck dies of a heart attack in New York City. His ashes are later interred in his hometown of Salinas.</li>
+        </ul>
+      <blockquote>
+          <p>“And this I believe: that the free, exploring mind of the individual human is the most valuable thing in the world. And this I would fight for: the freedom of the mind to take any direction it wishes, undirected. And this I must fight against: any idea, religion, or government which limits or destroys the individual. This is what I am and what I am about.”</p>
+        <footer><cite>John Steinbeck, East of Eden</cite></footer>
+      </blockquote>
+      <h3>Steinbeck was one of the most influential American writers of the 20th century. Read more about his life and contributions to literature in his <a href="https://en.wikipedia.org/wiki/John_Steinbeck">Wikipedia entry.</a>
+   </div>
+  </div>  
+</div>
+</div>
+<div>
+<footer class="text-center">
+  <hr>
+  <p>Written and coded by <a href="https://github.com/garrettsmith84" target="blank">Garrett Smith</a>. Life events were pulled from <a href="http://www.shmoop.com/john-steinbeck/timeline.html" target="blank">this timeline</a>.</p>
+</footer>
+</div>
